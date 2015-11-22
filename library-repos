@@ -1,5 +1,7 @@
 # Useful Library github repos
 
+* A list of some useful and intreseting Github repositories for libraries. They currently are in a bit of a mess with no heading or description. 
+
 * 'Python script for converting MARC21 files to a saner format (CSV), originally designed for the Harvard Libraries MARC21 records'
 [DavidChouinard/mrc_to_csv](https://github.com/DavidChouinard/mrc_to_csv)
 
